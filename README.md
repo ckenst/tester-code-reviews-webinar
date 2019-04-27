@@ -5,10 +5,10 @@ Webinar for TestCraft
 ## Contact
 
 - Email: chris@kenst.com
-- Twitter: @ckenst
-- LinkedIn: /in/ckenst
+- Twitter: [@ckenst](https://twitter.com/ckenst)
+- LinkedIn: [/in/ckenst](https://www.linkedin.com/in/ckenst/)
 - GitHub: (you are already here)
-- Website: Kenst.com
+- Website: [Kenst.com](https://www.kenst.com/)
 
 ## Slides
 
