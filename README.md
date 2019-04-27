@@ -2,6 +2,11 @@
 
 Webinar for TestCraft
 
+## Materials
+
+- Slides Link
+- Companion Materials
+
 ## Contact
 
 - Email: chris@kenst.com
@@ -9,10 +14,6 @@ Webinar for TestCraft
 - LinkedIn: [/in/ckenst](https://www.linkedin.com/in/ckenst/)
 - GitHub: (you are already here)
 - Website: [Kenst.com](https://www.kenst.com/)
-
-## Slides
-
-- link
 
 ## Additional References:
 
