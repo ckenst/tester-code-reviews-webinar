@@ -1,11 +1,12 @@
 # Participating in Code Reviews as a Tester: A Hands on Session
 
-Webinar for TestCraft
+TestCraft Webinar on May 21, 2019.
 
-## Materials
+## Included
 
-- Slides Link
-- Companion Materials
+- Code repo used for Pull Requests
+- Pull Requests for doing Code Reviews (see Pull Requests tab)
+- Slides
 
 ## Contact
 
