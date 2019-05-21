@@ -22,6 +22,8 @@ TestCraft Webinar on May 21, 2019.
 - [Video: Contributing to GitHub is for Everyone](https://www.youtube.com/watch?v=4QgOePWU5no)
 - [Smart Bear 2018 The State of Code Review Report](https://smartbear.com/SmartBear/media/ebooks/The-2018-State-Of-Code-Review-by-SmartBear.pdf)
 - [Thoughtbot Code Review Guide](https://github.com/thoughtbot/guides/tree/master/code-review)
+- [Additional Code Review Examples](https://github.com/testingrequired/talk-reading-pull-requests/pulls)
+- [TestingConferences.org GitHub Account](https://github.com/TestingConferences/testingconferences.github.io/pulls)
 
 ## Additional Links
 
