@@ -24,6 +24,7 @@ TestCraft Webinar on May 21, 2019.
 - [Thoughtbot Code Review Guide](https://github.com/thoughtbot/guides/tree/master/code-review)
 - [Additional Code Review Examples](https://github.com/testingrequired/talk-reading-pull-requests/pulls)
 - [TestingConferences.org GitHub Account](https://github.com/TestingConferences/testingconferences.github.io/pulls)
+- [12 Commandements of Code Reviews by Angie Jones](http://slides.com/angiejones/code-reviews#/)
 
 ## Additional Links
 
